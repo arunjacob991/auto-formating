@@ -1,7 +1,9 @@
 import logo from './logo.svg';
 import './App.css';
+import Test from './Test';
 
 function App() {
+     debugger;
   return (
     <div className="App">
       <header className="App-header">
@@ -19,6 +21,7 @@ function App() {
 
           <div className="yoyo">
                something added....
+               <Test />
           </div>
         </a>
       </header>
