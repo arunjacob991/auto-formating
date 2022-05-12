@@ -2,7 +2,8 @@ import React from 'react';
 
 const Test = () => {
 
-	// const [first, setfirst] = useState(second)
+	const [first, setfirst] = useState(second)
+     console.log("yoyoy");
 
 	return (
 		<div>Test
