@@ -7,7 +7,11 @@ const Test = () => {
     return (
         <div>
             Test
-            <div className="pretty">lksdlnclzncc</div>
+            <div
+                className="pretty"
+                id="kjsd">
+                lksdlnclzncc
+            </div>
             <p>lknl</p>
             <div>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni
