@@ -6,8 +6,15 @@ const Test = () => {
 
     return (
         <div>
-            Test<div className="pretty">lksdlnclzncc</div>
+            Test
+            <div className="pretty">lksdlnclzncc</div>
             <p>lknl</p>
+            <div>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni
+                beatae, cum qui amet commodi officiis voluptatem sunt
+                reprehenderit quasi rerum saepe. Fugit ipsam ab tempore cum sit
+                eius quidem at?
+            </div>
         </div>
     );
 };
