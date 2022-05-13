@@ -2,4 +2,5 @@ body {
     background-color: aliceblue;
     color: aquamarine;
     font: inherit;
+    -ms-text-combine-horizontal: all;
 }
