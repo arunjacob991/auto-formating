@@ -7,6 +7,7 @@ const Test = () => {
     return (
         <div>
             Test<div className="pretty">lksdlnclzncc</div>
+            <p>lknl</p>
         </div>
     );
 };
