@@ -1,15 +1,15 @@
-import React from 'react';
+import React from 'react'
 
 const Test = () => {
+  // const [first, setfirst] = useState(second)
+  console.log('yoyoy')
 
-	const [first, setfirst] = useState(second)
-     console.log("yoyoy");
+  return (
+    <div>
+      Test
+      <div className="pretty">lksdlnclzncc</div>
+    </div>
+  )
+}
 
-	return (
-		<div>Test
-         
-		</div>
-	);
-};
-
-export default Test;
+export default Test

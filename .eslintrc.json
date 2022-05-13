@@ -6,7 +6,8 @@
     "extends": [
         "eslint:recommended",
         "plugin:react/recommended",
-        "prettier"
+        "prettier" 
+     //    "airbnb"
     ],
     "parserOptions": {
         "ecmaFeatures": {
@@ -19,6 +20,7 @@
         "react"
     ],
     "rules": {
+     "no-console": "off",
         "indent": [
             "error",
             "tab"
