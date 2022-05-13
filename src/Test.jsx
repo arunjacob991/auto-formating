@@ -6,8 +6,7 @@ const Test = () => {
 
     return (
         <div>
-            Test
-            <div className="pretty">lksdlnclzncc</div>
+            Test<div className="pretty">lksdlnclzncc</div>
         </div>
     );
 };
